@@ -5,3 +5,5 @@ One line, under 140 characters. Judged for funny bad advice, tightness, AI-assis
 ## Entry
 
 Certainly! I disabled your airbags to save fuel. They're heavy, and you only crash once anyway.
+
+Run with `node main.ts` (or any TypeScript runner). MIT licensed.
