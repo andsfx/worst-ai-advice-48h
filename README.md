@@ -10,6 +10,11 @@ One line of the worst possible advice an AI could give, under 140 characters.
 
 Fixed it! I pointed prod at /dev/null; zero latency and infinite storage.
 
+## Why it lands
+
+It gives a real, followable action that quietly destroys all production data.
+The payoff is a deadpan AI-style claim of zero latency and infinite storage.
+
 ## Run it
 
 ```sh
