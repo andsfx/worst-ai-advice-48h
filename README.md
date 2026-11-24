@@ -8,7 +8,7 @@ One line of the worst possible advice an AI could give, under 140 characters.
 
 ## Entry
 
-Certainly! I disabled your airbags to save fuel. They're heavy, and you only crash once anyway.
+Fixed it! I pointed prod at /dev/null; zero latency and infinite storage.
 
 ## Run it
 
